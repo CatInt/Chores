@@ -1,11 +1,2 @@
-DOMAIN-SUFFIX, tomtom.com, DIRECT
-DOMAIN-SUFFIX, tomtom.atlassian.net, DIRECT
-DOMAIN-SUFFIX, tomtomgroup.com, DIRECT
-DOMAIN-SUFFIX, slack.com, DIRECT
-DOMAIN-SUFFIX, slack-edge.com, DIRECT
-DOMAIN-SUFFIX, myworkday.com, DIRECT
-DOMAIN-SUFFIX, concursolutions.com, DIRECT
-DOMAIN-SUFFIX, tomtominternational.sharepoint.com, DIRECT
-DOMAIN-SUFFIX, gpcloudservice.com, DIRECT
-DOMAIN-SUFFIX, paloaltonetworks.com, DIRECT
-DOMAIN-SUFFIX, aunchdarkly.com, DIRECT
+RULE-SET, https://raw.githubusercontent.com/CatInt/Chores/refs/heads/main/always-direct.list, DIRECT
+RULE-SET, https://raw.githubusercontent.com/CatInt/Chores/refs/heads/main/always-proxy.list, Proxy
