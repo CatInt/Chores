@@ -9,6 +9,6 @@ DOMAIN-SUFFIX, gpcloudservice.com
 DOMAIN-SUFFIX, paloaltonetworks.com
 DOMAIN-SUFFIX, launchdarkly.com
 DOMAIN-SUFFIX, jamf.build
-DOMAIN-SUFFIX, *.tomtomgroup.com
+DOMAIN-SUFFIX, tomtomgroup.com
 DOMAIN-SUFFIX, atl-paas.net
 DOMAIN-KEYWORD, atlassian
